@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/BgjkD0J.png" height="80%" width="80%"/>
+<img src="https://imgur.com/4Q7vDae.png" height="80%" width="80%"/>
 
 </p>
 
@@ -263,13 +263,16 @@ The visualization we want for this is a map, so we'll select map from the dropdo
 After confirming our map settings, we can apply them and save. We now have our geomap to show us all the data that we want to pull.
 <br/>
 <br/>
+<img src="https://imgur.com/J94ii8G.png" height="80%" width="80%"/>
+<br/>
+<br/>
 While letting the PowerShell script run during the lab, we had hundreds and thousands of brute force attempts on our honeypot stemming from multiple countries.
 <br/>
 <br/>
 If we were to let it run longer, say hours, or even days, we'd be able to collect a lot more data. But for the sake of time, we had a sufficient amount of data.
 <br/>
 <br/>
-
+<img src="https://imgur.com/1YZ7xGj.png" height="80%" width="80%"/>
 <br/>
 <br/>
 
