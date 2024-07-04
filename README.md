@@ -269,7 +269,7 @@ While letting the PowerShell script run during the lab, we had hundreds and thou
 If we were to let it run longer, say hours, or even days, we'd be able to collect a lot more data. But for the sake of time, we had a sufficient amount of data.
 <br/>
 <br/>
-<img src="https://imgur.com/WtFoaAD.png" height="80%" width="80%"/>
+
 <br/>
 <br/>
 
