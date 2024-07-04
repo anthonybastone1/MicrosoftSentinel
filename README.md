@@ -20,6 +20,7 @@ This home lab shows me setting up a Microsoft Sentinel SIEM and connecting it to
 <h2>Environments Used </h2>
 
 - <b>Microsoft Azure</b>
+- <b>Microsoft Sentinel</b>
 - <b>Windows 10 VM</b>
 
 
