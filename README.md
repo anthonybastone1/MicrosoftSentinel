@@ -6,7 +6,7 @@
 <h1>Microsoft Sentinel SIEM Home Lab - Live Cyber Attacks</h1>
 
 <h2>Description</h2>
-This home lab shows me setting up a Microsoft Sentinel SIEM and connecting it to a live virtual machine acting as a honeypot. I configured the SIEM to log live RDP brute force attempts from various locations around the world. I then utilized a custom PowerShell script to lookup the attackers' geolocation information and plot it on the Microsoft Sentinel map. Follow along below to see the process and results!
+This home lab shows me setting up a Microsoft Sentinel SIEM and connecting it to a live virtual machine acting as a honeypot. I configured the SIEM to log live RDP brute force attempts from various locations around the world. I then utilized a custom PowerShell script to collect the attackers' geolocations using ipgeolocation.io and plotted them on the Microsoft Sentinel map. Follow along below to see the process and results!
 
 
 
